@@ -12,6 +12,10 @@ main {
   min-height: 71vh;
 }
 
+.greeting {
+  text-align: center;
+}
+
 .row {
   display: flex;
   flex-wrap: wrap;
